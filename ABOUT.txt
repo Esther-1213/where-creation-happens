@@ -1,0 +1,1 @@
+Exhibition assets. Place this assets folder beside index.html, style.css and app.js. WAV samples are synthesized, not recorded grand piano. Keep font license notices in licenses/.
